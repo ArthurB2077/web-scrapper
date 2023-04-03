@@ -37,7 +37,7 @@ def handle_captcha(driver):
     submit_button = driver.find_element(By.CSS_SELECTOR, '.submit-button-selector')
     submit_button.click()
 
-chrome_options = uc.ChromeOptions(headless=True)
+chrome_options = uc.ChromeOptions()
 
 options = {
     'addr': '82.64.195.157',
@@ -53,7 +53,7 @@ url = "https://www.seloger.com/list.htm?projects=2%2C5&types=2%2C1&natures=1%2C2
 driver = uc.Chrome(
     executable_path='/home/arthur/webdriver/chromedriver',
     options=chrome_options,
-    seleniumwire_options={}
+    seleniumwire_options=options
 )
 
 # Open the URL
