@@ -37,7 +37,7 @@ def handle_captcha(driver):
     submit_button = driver.find_element(By.CSS_SELECTOR, '.submit-button-selector')
     submit_button.click()
 
-chrome_options = uc.ChromeOptions()
+chrome_options = uc.ChromeOptions(headless=True)
 
 options = {
     'addr': '82.64.195.157',
@@ -47,7 +47,7 @@ options = {
 }
 
 # Set the URL you want to scrape from
-url = "https://www.seloger.com/list.htm?projects=2%2C5&types=2%2C1&natures=1%2C2%2C4&places=%5B%7B%22divisions%22%3A%5B2238%5D%7D%5D&price=10000%2F10000000&mandatorycommodities=0&enterprise=0&qsVersion=1.0&LISTING-LISTpg=1"
+url = "https://www.seloger.com/list.htm?projects=2%2C5&types=2%2C1&natures=1%2C2%2C4&places=%5B%7B%22divisions%22%3A%5B2238%5D%7D%5D&price=10000%2F10000000&mandatorycommodities=0&enterprise=0&qsVersion=1.0&LISTING-LISTpg=21"
 
 # Create the driver with browser-specific options and/or selenium-wire options
 driver = uc.Chrome(
@@ -63,11 +63,12 @@ driver.get(url)
 #     handle_captcha(driver)
 
 time.sleep(10)
+
 now = datetime.now()
 output_name = f'scrapping_seloger_{now}.json'
 
 i=0
-while i < 1000:
+while i < 7000:
     next = driver.find_element(By.PARTIAL_LINK_TEXT , "Suivant")
     next.click()
     driver.wait_for_request('/search-bff/api/externaldata', timeout=10)
@@ -89,6 +90,5 @@ while i < 1000:
                         print("JSON data decode")
                     except json.JSONDecodeError:
                         print("Failed to decode JSON data from the request")
-
-    time.sleep(20)
-    i=i+1
+        time.sleep(30)
+        i=i+1
