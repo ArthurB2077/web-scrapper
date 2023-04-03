@@ -40,14 +40,13 @@ def handle_captcha(driver):
 chrome_options = uc.ChromeOptions()
 
 options = {
-    'addr': '82.64.195.157',
-    'disable_encoding': True,  # Ask the server not to compress the response,
+    'disable_encoding': True,
     'ignore_http_methods': ['OPTIONS', 'GET'] ,
-    'request_storage_base_dir': '/selenium_storage'
+    'request_storage_base_dir': 'selenium_storage'
 }
 
 # Set the URL you want to scrape from
-url = "https://www.seloger.com/list.htm?projects=2%2C5&types=2%2C1&natures=1%2C2%2C4&places=%5B%7B%22divisions%22%3A%5B2238%5D%7D%5D&price=10000%2F10000000&mandatorycommodities=0&enterprise=0&qsVersion=1.0&LISTING-LISTpg=21"
+url = "https://www.seloger.com/list.htm?projects=2%2C5&types=2%2C1&natures=1%2C2%2C4&places=%5B%7B%22divisions%22%3A%5B2238%5D%7D%5D&price=10000%2F10000000&mandatorycommodities=0&enterprise=0&qsVersion=1.0&LISTING-LISTpg=6"
 
 # Create the driver with browser-specific options and/or selenium-wire options
 driver = uc.Chrome(
@@ -62,33 +61,41 @@ driver.get(url)
 # if 'captcha' in driver.page_source.lower():
 #     handle_captcha(driver)
 
-time.sleep(10)
-
-now = datetime.now()
-output_name = f'scrapping_seloger_{now}.json'
+time.sleep(20)
 
 i=0
 while i < 7000:
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(10)
     next = driver.find_element(By.PARTIAL_LINK_TEXT , "Suivant")
     next.click()
-    driver.wait_for_request('/search-bff/api/externaldata', timeout=10)
+    
     # Add a wait to ensure the page has loaded before scraping
-    for req in driver.requests:
-        if req.method == 'POST' and 'externaldata' in req.path:
-            if req.response != None:
-                body = req.response.body
-                if body != None:
+    time.sleep(20)
+    
+    try: 
+        driver.wait_for_request('/search-bff/api/externaldata', timeout=30)
+        for req in driver.requests:
+            if req.method == 'POST' and 'externaldata' in req.path and req.response != None and req.response.body != None:
+                    body = req.response.body
                     try:
                         body = decode(body, req.response.headers.get('Content-Encoding', 'identity'))
                         # Load the JSON data from the request body
                         json_data = json.loads(body)
 
                         # Write the JSON data to a file
+                        now = datetime.now()
+                        output_name = f'data/scrapping_seloger_page_{now}.json'
                         with open(output_name, 'w') as file:
                             json.dump(json_data, file, indent=4)
 
-                        print("JSON data decode")
+                        print("JSON data decoded from the request")
                     except json.JSONDecodeError:
                         print("Failed to decode JSON data from the request")
-        time.sleep(30)
-        i=i+1
+    except:
+        print("No request with data")
+    finally:
+        time.sleep(10)    
+    
+    time.sleep(10)
+    i=i+1
