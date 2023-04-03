@@ -1,0 +1,2082 @@
+{
+    "listingData": {
+        "count": 168429,
+        "geoLocalizedCount": 163719,
+        "cards": [
+            {
+                "type": 0,
+                "listing": {
+                    "id": 200210779,
+                    "publicationId": 30012004,
+                    "highlightingLevel": 3,
+                    "businessUnit": 5,
+                    "title": "Appartement",
+                    "photosQty": 14,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/a/0/e/2a0emdtmwt6xp8nre2992rssohfe9je3gil2pzeqc.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/a/w/0/0aw0u1t8r2la8j61dlacjvhuit5o4lb0a6vzwibf8.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/y/i/w/1yiwc95xwi0cli73mtjdxti5xr9m2vibtq8ki2no4.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/7/f/c/17fczno55grrvqzo6x57hymfqpnivvcwvi1yecgus.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/0/x/l/10xlr69b0r6rieb4mbszbooko3qwuvm7xwutaefys.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 8,
+                    "nature": 3,
+                    "pricing": {
+                        "squareMeterPrice": "15 168 \u20ac",
+                        "rawPrice": "1795000",
+                        "price": "1 795 000 \u20ac",
+                        "monthlyPrice": 9007,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 12004,
+                        "agencyPage": "/professionnels/agences-immobilieres/paris-16eme-arrondissement-75016/agence-94973/",
+                        "isPrivateSeller": false,
+                        "contactName": "CONSULTANTS IMMOBILIER",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/r/h/5/1rh5uc7ohv3hvg2wsut0ukq42wz0arjol65zbxip8.jpg",
+                        "phoneNumber": "01 46 47 27 27",
+                        "email": "true",
+                        "agencyLink": "http://www.consultants-immobilier.com/"
+                    },
+                    "tags": [
+                        "5 pi\u00e8ces",
+                        "3 chambres",
+                        "118 m\u00b2",
+                        "\u00c9tage 3/4",
+                        "2 balcons",
+                        "Ascenseur"
+                    ],
+                    "tagsLine1": [
+                        "5 pi\u00e8ces",
+                        "3 chambres",
+                        "118 m\u00b2",
+                        "\u00c9tage 3/4",
+                        "2 balcons",
+                        "Ascenseur"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Paris 16\u00e8me",
+                    "districtLabel": "Auteuil Sud",
+                    "zipCode": "75016",
+                    "description": "Appartement de luxe \u00e0 vendre - EXCLUSIVITE - VILLAGE D'AUTEUIL - CALME - SOLEIL - BALCON En plein c\u0153ur du Village Auteuil, dans un immeuble de 1951 construit par Jean de Mailly ( Grand Prix de Rome en 1945) Consultants Immobilier vous propose en Exclusivit\u00e9 un appartement en parfait \u00e9tat, traversant, au calme et qui comprend : une entr\u00e9e, un [...]",
+                    "virtualVisitURL": "https://download.clap.video/2023/3/5FL2Thummo7vdALpgUfqx.mp4",
+                    "housingBatch": [],
+                    "classifiedURL": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-48260/200210779/",
+                    "rooms": 5,
+                    "surface": 118.34,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "E",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 5,
+                "nativeAdvertising": {
+                    "highlightingLevel": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 200141121,
+                    "publicationId": 30318325,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 5,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/9/2/a/192aigwds2and2tley00nc827rcw4j8otnj7si8ww.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/t/s/3/1ts3stvsuqqrb03trkp2m300ehfew3xqsulgck8tc.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/k/f/6/0kf616vp53hfhi7gyedq3hpv09p8icwaasbj37ep6.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/l/g/g/0lggqelaghnylrimld0jd46800kv3fwe944tcdjts.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/u/y/a/1uyafymatdg3289dxija7xhpxz6pooi4c7gd64gbk.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "3 950 \u20ac",
+                        "rawPrice": "133000",
+                        "price": "133 000 \u20ac",
+                        "monthlyPrice": 678,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 318325,
+                        "agencyPage": "/professionnels/agences-immobilieres/la-ferte-alais-91590/agence-54779/",
+                        "isPrivateSeller": false,
+                        "contactName": "AGENCE L HIRONDELLE",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/k/t/p/1ktpbg4dg64tu5y66hhjc152e63awlwgquiwzdux4.jpg",
+                        "phoneNumber": "01 64 57 72 58",
+                        "email": "true",
+                        "agencyLink": "http://www.orpi.com/agencehirondelle"
+                    },
+                    "tags": [
+                        "2 pi\u00e8ces",
+                        "1 chambre",
+                        "34 m\u00b2",
+                        "\u00c9tage 1/3",
+                        "Parking"
+                    ],
+                    "tagsLine1": [
+                        "2 pi\u00e8ces",
+                        "1 chambre",
+                        "34 m\u00b2",
+                        "\u00c9tage 1/3",
+                        "Parking"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "La Fert\u00e9-Alais",
+                    "zipCode": "91590",
+                    "description": "Appartement \u00e0 vendre - EXCLUSIVIT\u00c9 - APPARTEMENT 2 PI\u00c8CES AU CALME\r\n\r\nEn vente : d\u00e9couvrez cet appartement de 2 pi\u00e8ces au calme de 33,67 m\u00b2 situ\u00e9 \u00e0 LA FERTE ALAIS (91590). Il b\u00e9n\u00e9ficie d'une exposition sud ouest. Il est compos\u00e9 comme suit : une chambre de 9 m\u00b2 et une cuisine am\u00e9ricaine et \u00e9quip\u00e9e. Il est \u00e9galement compos\u00e9 d'une salle de bains et [...]",
+                    "virtualVisitURL": "https://youtu.be/Mvr6OaPDjxg",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/la-ferte-alais-91/200141121.htm",
+                    "rooms": 2,
+                    "surface": 33.67,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "E",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 200156889,
+                    "publicationId": 30110923,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Maison ancienne 2 \u00e9tages",
+                    "photosQty": 10,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/v/d/n/0vdn0wler8s0ukrigx3s3jwwvrzpyz9v9gxg0qagw.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/9/i/d/09idnvwihrp33mmb3mums37psg18u7fk2n7bxnxq8.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/i/q/i/1iqi7z2y489w0d4ooyzo61x7wza3y4y1zivne1h8g.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/7/g/s/07gsvqvqzizvrb7z8bixv284rn2hnqy6bobydof40.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/f/o/c/0focky4dz53cxycz8vle66tvn3wogn5p55olo9gg0.jpg"
+                    ],
+                    "estateType": "Maison ancienne",
+                    "estateTypeId": 2,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "6 869 \u20ac",
+                        "rawPrice": "735000",
+                        "price": "735 000 \u20ac",
+                        "monthlyPrice": 3695,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 110923,
+                        "agencyPage": "/professionnels/agences-immobilieres/nanterre-92000/agence-107244/",
+                        "isPrivateSeller": false,
+                        "contactName": "LAFOR\u00caT IMMOBILIER",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/c/o/f/1cofbifzktvtv6rvm78tza1mziaqgbe0yrcxmj07s.jpg",
+                        "phoneNumber": "01 42 04 04 02",
+                        "email": "true",
+                        "agencyLink": "https://laforet.com/agence-immobiliere/nanterre-mont-valerien"
+                    },
+                    "tags": [
+                        "5 pi\u00e8ces",
+                        "3 chambres",
+                        "107 m\u00b2",
+                        "Terrain 224 m\u00b2",
+                        "Jardin",
+                        "Parking"
+                    ],
+                    "tagsLine1": [
+                        "5 pi\u00e8ces",
+                        "3 chambres",
+                        "107 m\u00b2",
+                        "Terrain 224 m\u00b2",
+                        "Jardin",
+                        "Parking"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Nanterre",
+                    "districtLabel": "Plateau",
+                    "zipCode": "92000",
+                    "description": "Maison/Villa \u00e0 vendre - NANTERRE MONT-VAL\u00c9RIEN - Maison \u00e9difi\u00e9e sur une parcelle de 224m\u00b2, dans une rue calme et un quartier pavillonnaire, \u00e0 proximit\u00e9 des \u00e9coles, commerces et bus pour la D\u00e9fense. Elle se compose, sur un rez-de-chauss\u00e9e sur\u00e9lev\u00e9, d'une entr\u00e9e, d'une cuisine ouverte sur s\u00e9jour avec son po\u00eale \u00e0 bois donnant sur une terrasse et un [...]",
+                    "virtualVisitURL": "https://my.capture.immo/tour/maison-de-74m2-laforet-mont-valerien",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/maison/nanterre-92/plateau/200156889.htm",
+                    "rooms": 5,
+                    "surface": 107,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "F",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 200279735,
+                    "publicationId": 30097718,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Maison 1 \u00e9tage",
+                    "photosQty": 17,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/8/q/3/28q35t7hhc56u80oyh5hztqteqzsxt38d2hm6evmo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/x/c/4/0xc4xwl8unkl6wyfmo1ifbe7r5mqnqe3g58fjui00.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/0/v/5/10v5w3m8c2hy5q6hlp554km6j2uhau3a2igak25r4.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/z/c/g/0zcg8amsor071sw4l75oss2r0yhw7d2huciateeg0.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/e/o/h/1eohye78kmfkg85v3kmwlh0l0tlg51lmexde1zmhs.jpg"
+                    ],
+                    "estateType": "Maison/Villa",
+                    "estateTypeId": 2,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "3 803 \u20ac",
+                        "rawPrice": "445000",
+                        "price": "445 000 \u20ac",
+                        "monthlyPrice": 2241,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 97718,
+                        "agencyPage": "/professionnels/agences-immobilieres/saint-gratien-95210/agence-25960/",
+                        "isPrivateSeller": false,
+                        "contactName": "ORPI Catinat Immobilier",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/k/t/p/1ktpbg4dg64tu5y66hhjc152e63awlwgquiwzdux4.jpg",
+                        "phoneNumber": "01 39 34 20 50",
+                        "email": "true",
+                        "agencyLink": "http://www.orpi.com/catinatimmobilier"
+                    },
+                    "tags": [
+                        "6 pi\u00e8ces",
+                        "4 chambres",
+                        "117 m\u00b2",
+                        "Terrain 265 m\u00b2",
+                        "Jardin",
+                        "Box",
+                        "Parking"
+                    ],
+                    "tagsLine1": [
+                        "6 pi\u00e8ces",
+                        "4 chambres",
+                        "117 m\u00b2",
+                        "Terrain 265 m\u00b2",
+                        "Jardin",
+                        "Box",
+                        "Parking"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Saint-Gratien",
+                    "districtLabel": "La Terre Aux Clercs",
+                    "zipCode": "95210",
+                    "description": "Maison/Villa \u00e0 vendre - A proximit\u00e9 imm\u00e9diate du centre ville, \u00e0 deux pas des commerces et des \u00e9coles, \u00e0 5 minutes de la gare RER C, maison 6 pi\u00e8ces de 117 m2 \u00e9difi\u00e9e en 1955 sur une parcelle de 265 m2. Elle dispose au niveau principal d'un s\u00e9jour double ouvrant sur un grand balcon, une cuisine attenante, deux chambres, une salle d'eau et un wc [...]",
+                    "virtualVisitURL": "https://envisite.net/vtour/fr/sjdhf6/frame",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/maison/saint-gratien-95/la-terre-aux-clercs/200279735.htm",
+                    "rooms": 6,
+                    "surface": 117,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "transport": {
+                        "iconType": "Paris",
+                        "rerLines": [
+                            {
+                                "id": 118,
+                                "typeId": 14,
+                                "name": "C",
+                                "color": "ffce00"
+                            }
+                        ]
+                    },
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "F",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 200015695,
+                    "publicationId": 30091845,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Maison 1 \u00e9tage",
+                    "photosQty": 9,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/0/v/s/20vsqdakaiig9c4o9o440k29ro02w9wmrp4vq0fg8.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/9/c/s/29cs4i4fmn6wh3g7d3xh6ziqm6l25w9inequ619h4.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/1/x/m/11xm9tv4w0jc9aaiaweqcptvn1iaa0hda9vmfha2g.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/n/7/2/1n72ky91atq21a3tfsnti7d5tn82uzol1oukzk3t6.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/6/7/t/267tf7tnrub4h9qsvas0yh5ef034gafthrakg5a1s.jpg"
+                    ],
+                    "estateType": "Maison/Villa",
+                    "estateTypeId": 2,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "4 211 \u20ac",
+                        "rawPrice": "299000",
+                        "price": "299 000 \u20ac",
+                        "monthlyPrice": 1510,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 91845,
+                        "agencyPage": "/professionnels/agences-immobilieres/argenteuil-95100/agence-95380/",
+                        "isPrivateSeller": false,
+                        "contactName": "Orpi Jaures",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/0/r/2/j/0r2jetzn2gh9gh6xpx4hgmhglw0krlaaetg1r07g0.jpg",
+                        "phoneNumber": "01 84 20 03 28",
+                        "email": "true",
+                        "agencyLink": "http://www.orpi.com/orpijaures"
+                    },
+                    "tags": [
+                        "3 pi\u00e8ces",
+                        "2 chambres",
+                        "71 m\u00b2",
+                        "Terrain 302 m\u00b2",
+                        "Jardin",
+                        "Parking"
+                    ],
+                    "tagsLine1": [
+                        "3 pi\u00e8ces",
+                        "2 chambres",
+                        "71 m\u00b2",
+                        "Terrain 302 m\u00b2",
+                        "Jardin",
+                        "Parking"
+                    ],
+                    "isExclusive": false,
+                    "cityLabel": "Argenteuil",
+                    "districtLabel": "Val Notre Dame-La Tour Billy",
+                    "zipCode": "95100",
+                    "description": "Maison/Villa \u00e0 vendre - ARGENTEUIL, sur le secteur recherch\u00e9 des Bas Coteaux, MAISON \u00e0 moderniser \u00e9difi\u00e9e sur un terrain de 302 m2. \r\nConstruite sur deux niveaux, elle vous offre : une entr\u00e9e, une cuisine ind\u00e9pendante, un s\u00e9jour, une grande salle de bains, deux chambres, un WC s\u00e9par\u00e9 et des combles.\r\n\r\nLe tout est \u00e9lev\u00e9 sur un sous-sol total. Sur [...]",
+                    "virtualVisitURL": "https://play.danim.com/6sad9j71e?loop=1&autoplay=0",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/maison/argenteuil-95/val-notre-dame-la-tour-billy/200015695.htm",
+                    "rooms": 3,
+                    "surface": 71,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "G",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 5,
+                "nativeAdvertising": {
+                    "highlightingLevel": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 200016959,
+                    "publicationId": 30010853,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Maison 2 \u00e9tages",
+                    "photosQty": 8,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/6/f/7/26f7zv68jope058p24grkyyi4a7osndzrtpdbw9ck.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/v/c/n/1vcnh8pw0t5dih0x0w56ykpbfxyrrlng1ullg802c.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/l/w/n/0lwnq8gewurxnl49j6q1csfqob8d5ec58i8xqzv4k.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/1/j/w/01jw3e1snp6kpfzggj48y6f4rj8qyo4tyte7y01n8.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/r/o/i/1roi1wv4r5qlsip8cbwxmckd32c3fidaruhv1uv6c.jpg"
+                    ],
+                    "estateType": "Maison/Villa",
+                    "estateTypeId": 2,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "3 292 \u20ac",
+                        "rawPrice": "395000",
+                        "price": "395 000 \u20ac",
+                        "monthlyPrice": 1991,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 10853,
+                        "agencyPage": "/professionnels/agences-immobilieres/ste-genevieve-des-bois-91700/agence-28817/",
+                        "isPrivateSeller": false,
+                        "contactName": "Agence du Perray",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/k/t/p/1ktpbg4dg64tu5y66hhjc152e63awlwgquiwzdux4.jpg",
+                        "phoneNumber": "01 69 04 33 00",
+                        "email": "true",
+                        "agencyLink": "http://www.orpi.com/agenceduperray"
+                    },
+                    "tags": [
+                        "5 pi\u00e8ces",
+                        "4 chambres",
+                        "120 m\u00b2",
+                        "Terrain 345 m\u00b2",
+                        "Jardin",
+                        "Box",
+                        "Parking"
+                    ],
+                    "tagsLine1": [
+                        "5 pi\u00e8ces",
+                        "4 chambres",
+                        "120 m\u00b2",
+                        "Terrain 345 m\u00b2",
+                        "Jardin",
+                        "Box",
+                        "Parking"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Sainte-Genevi\u00e8ve-des-Bois",
+                    "districtLabel": "Georges Pitard",
+                    "zipCode": "91700",
+                    "description": "Maison/Villa \u00e0 vendre - MAISON 5 PI\u00c8CES AVEC TERRASSE\r\n\r\n\u00c0 vendre : venez d\u00e9couvrir cette maison de 5 pi\u00e8ces de 120 m\u00b2 \u00e0 SAINTE GENEVIEVE DES BOIS (91700). Elle s'agence comme suit : un grand salon/s\u00e9jour, quatre chambres (dont une de 18m\u00b2 \u00e0 l'\u00e9tage) et une cuisine am\u00e9nag\u00e9e et \u00e9quip\u00e9e. Elle comporte aussi une salle d'eau, une salle de bains et [...]",
+                    "virtualVisitURL": "https://envisite.net/vtour/fr/4pmuej/frame",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/maison/sainte-genevieve-des-bois-91/georges-pitard/200016959.htm",
+                    "rooms": 5,
+                    "surface": 120,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "D",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 200265601,
+                    "publicationId": 30010853,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Maison 1 \u00e9tage",
+                    "photosQty": 14,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/d/k/1/1dk1ptk5ly4ph9ijuc45ny3htg62twuke0m5pc95g.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/u/o/g/0uogsfu8qglf4xmhs9muy07k01zxtwhuwuir08klw.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/r/l/q/1rlq24hk8beeu3uopnhqdz4fgrg0ez19cbe4qrdck.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/m/y/z/0myz6h8vsupw0r9o05t9xzsw0qe544tc5ynt2h7is.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/g/n/o/1gnop6msj15x5mnnekpovhgw85v7rxly0yxqa7qz8.jpg"
+                    ],
+                    "estateType": "Maison/Villa",
+                    "estateTypeId": 2,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "4 733 \u20ac",
+                        "rawPrice": "355000",
+                        "price": "355 000 \u20ac",
+                        "monthlyPrice": 1790,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 10853,
+                        "agencyPage": "/professionnels/agences-immobilieres/ste-genevieve-des-bois-91700/agence-28817/",
+                        "isPrivateSeller": false,
+                        "contactName": "Agence du Perray",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/k/t/p/1ktpbg4dg64tu5y66hhjc152e63awlwgquiwzdux4.jpg",
+                        "phoneNumber": "01 69 04 33 00",
+                        "email": "true",
+                        "agencyLink": "http://www.orpi.com/agenceduperray"
+                    },
+                    "tags": [
+                        "4 pi\u00e8ces",
+                        "2 chambres",
+                        "75 m\u00b2",
+                        "Terrain 635 m\u00b2",
+                        "Jardin",
+                        "Parking"
+                    ],
+                    "tagsLine1": [
+                        "4 pi\u00e8ces",
+                        "2 chambres",
+                        "75 m\u00b2",
+                        "Terrain 635 m\u00b2",
+                        "Jardin",
+                        "Parking"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Morsang-sur-Orge",
+                    "districtLabel": "Beaus\u00e9jour",
+                    "zipCode": "91390",
+                    "description": "Maison/Villa \u00e0 vendre - MORSANG SUR ORGE \r\n\r\nExclusivit\u00e9. Venez d\u00e9couvrir ce pavillon individuel sur 635m\u00b2 comprenant : une entr\u00e9e, un s\u00e9jour donnant sur une terrasse, une cuisine \u00e9quip\u00e9e, un wc et une chambre. A l'\u00e9tage : un palier pouvant servir de bureau, une chambre avec rangement ainsi qu' une salle de bains avec wc. \r\nSous-sol total am\u00e9nag\u00e9 [...]",
+                    "virtualVisitURL": "https://envisite.net/vtour/fr/vnhgip/frame",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/maison/morsang-sur-orge-91/beausejour/200265601.htm",
+                    "rooms": 4,
+                    "surface": 75,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "E",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 200296341,
+                    "publicationId": 30064226,
+                    "highlightingLevel": 3,
+                    "businessUnit": 5,
+                    "title": "Appartement",
+                    "photosQty": 16,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/3/f/h/03fheacet1a3gulifc3axhunp2yete88dobhor6v4.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/c/g/o/0cgo4z9bj09teddgjkoejnw9eiyf5dl3psc73xkzk.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/e/5/q/1e5q3ypra7x3iw1un77rxu49c12cj9hp1ptmez7nk.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/8/a/z/28azfob11mdd6v5k2xmz4q4hs6kps9wcp7id5ou4g.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/4/t/j/24tjxiqxqchy4il1p9664uwpazuup111yee4b4ghs.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 8,
+                    "nature": 3,
+                    "pricing": {
+                        "squareMeterPrice": "13 034 \u20ac",
+                        "rawPrice": "2695000",
+                        "price": "2 695 000 \u20ac",
+                        "monthlyPrice": 13518,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 64226,
+                        "agencyPage": "/professionnels/agences-immobilieres/paris-7eme-arrondissement-75007/agence-208304/",
+                        "isPrivateSeller": false,
+                        "contactName": "JUNOT COURCELLES",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/x/2/o/1x2o6y1oi17zg8855kywzfa7dmkn9tdqh1ho1atdk.jpg",
+                        "phoneNumber": "01 43 80 10 00",
+                        "email": "true",
+                        "agencyLink": "http://www.junot.fr/"
+                    },
+                    "tags": [
+                        "6 pi\u00e8ces",
+                        "4 chambres",
+                        "207 m\u00b2",
+                        "\u00c9tage 3/6",
+                        "Ascenseur"
+                    ],
+                    "tagsLine1": [
+                        "6 pi\u00e8ces",
+                        "4 chambres",
+                        "207 m\u00b2",
+                        "\u00c9tage 3/6",
+                        "Ascenseur"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Paris 17\u00e8me",
+                    "districtLabel": "Courcelles-Wagram",
+                    "zipCode": "75017",
+                    "description": "Appartement de luxe \u00e0 vendre - Rare, rue de Prony et \u00e0 proximit\u00e9 du parc Monceau, dans un magnifique immeuble haussmannien, au troisi\u00e8me \u00e9tage avec ascenseur, tr\u00e8s bel appartement de six pi\u00e8ces d'une superficie de 206,77m\u00b2 loi Carrez. L'excellent plan propose une entr\u00e9e avec espace bureau, un tr\u00e8s beau s\u00e9jour avec chemin\u00e9e faisant face \u00e0 une [...]",
+                    "virtualVisitURL": "https://envisite.net/vtour/fr/z6p9nl/frame",
+                    "housingBatch": [],
+                    "classifiedURL": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-48268/200296341/",
+                    "rooms": 6,
+                    "surface": 206.77,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "F",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 199137519,
+                    "publicationId": 30061680,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 14,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/0/2/9/2029uwjgvs519jz55ytcjf3umjexd20zczj0ltbq8.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/f/8/4/0f84i2igoc9lsnedwltkzew6kxk6hp2cwhsbha8bk.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/o/t/r/0otrq8gffrj40fb4g2k0b8hvsytnh929nlgn6pnkw.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/0/t/7/20t7u2e5ubn849dgp4zfsnm7pvwi8iemor0rt119c.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/y/1/b/0y1bo5gcewtlfm0kcoiys99ubf10x5rxhser2khwg.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "8 000 \u20ac",
+                        "rawPrice": "368000",
+                        "price": "368 000 \u20ac",
+                        "monthlyPrice": 1855,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 61680,
+                        "agencyPage": "/professionnels/agences-immobilieres/paris-10eme-arrondissement-75010/agence-88375/",
+                        "isPrivateSeller": false,
+                        "contactName": "LOFT APP'ART & CO",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/8/w/3/18w3y8qug96uia3m7vi5s9hjr87y9so6lbpdtbg8w.jpg",
+                        "phoneNumber": "06 15 89 57 22",
+                        "email": "true",
+                        "agencyLink": "http://loftappart.fr/"
+                    },
+                    "tags": [
+                        "2 pi\u00e8ces",
+                        "1 chambre",
+                        "46 m\u00b2",
+                        "\u00c9tage 0/3",
+                        "Terrasse",
+                        "Jardin"
+                    ],
+                    "tagsLine1": [
+                        "2 pi\u00e8ces",
+                        "1 chambre",
+                        "46 m\u00b2",
+                        "\u00c9tage 0/3",
+                        "Terrasse",
+                        "Jardin"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Montreuil",
+                    "districtLabel": "Bas Montreuil-Etienne Marcel-Chanzy",
+                    "zipCode": "93100",
+                    "description": "Appartement \u00e0 vendre - FRAIS DE NOTAIRE REDUITS \u00e0 seulement 10 000 euros (2,5% du prix) au lieu de 30 000 euros (7,5 % pour l'ancien), dans un immeuble neuf, disponible de suite, et avec charges de copropri\u00e9t\u00e9 tr\u00e8s faibles (environ 40 euros/mois). Inclus toute la cuisine en l'\u00e9tat, \u00e9lectrom\u00e9nager neuf sous garantie.\nA 9 mn du M\u00b0 Croix de Chavaux, [...]",
+                    "virtualVisitURL": "https://play.doorinsider.com/tour/7466?p=my.matterport.com",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/montreuil-93/bas-montreuil-etienne-marcel-chanzy/199137519.htm",
+                    "rooms": 2,
+                    "surface": 46,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "transport": {
+                        "iconType": "Paris",
+                        "metroLines": [
+                            {
+                                "id": 22,
+                                "typeId": 3,
+                                "name": "9",
+                                "color": "d5c900"
+                            }
+                        ]
+                    },
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "B",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 5,
+                "nativeAdvertising": {
+                    "highlightingLevel": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 199137517,
+                    "publicationId": 30061680,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 14,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/l/t/l/1ltlg1nducjsptxxayl8h2s02ak2t71ap386eig00.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/8/9/4/28943nnzp3l6h7jvl0kzn4pc94venpdvae3ai7vy8.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/9/y/z/09yz9dqwlxo8b3zkwc0bxtuow1k0cb7tfcu358juo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/6/h/5/06h5x1tucwt5tpoclrttfekbnm09oqljev2m4u9hc.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/l/3/6/0l36q8ztfueyl0b04114kq4rczr3a7eu32sj50neo.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "10 545 \u20ac",
+                        "rawPrice": "580000",
+                        "price": "580 000 \u20ac",
+                        "monthlyPrice": 2918,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 61680,
+                        "agencyPage": "/professionnels/agences-immobilieres/paris-10eme-arrondissement-75010/agence-88375/",
+                        "isPrivateSeller": false,
+                        "contactName": "LOFT APP'ART & CO",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/8/w/3/18w3y8qug96uia3m7vi5s9hjr87y9so6lbpdtbg8w.jpg",
+                        "phoneNumber": "06 15 89 57 22",
+                        "email": "true",
+                        "agencyLink": "http://loftappart.fr/"
+                    },
+                    "tags": [
+                        "3 pi\u00e8ces",
+                        "2 chambres",
+                        "55 m\u00b2",
+                        "\u00c9tage 0/4"
+                    ],
+                    "tagsLine1": [
+                        "3 pi\u00e8ces",
+                        "2 chambres",
+                        "55 m\u00b2",
+                        "\u00c9tage 0/4"
+                    ],
+                    "isExclusive": false,
+                    "cityLabel": "Paris 10\u00e8me",
+                    "districtLabel": "Faubourg du Temple-H\u00f4pital Saint Louis",
+                    "zipCode": "75010",
+                    "description": "Appartement \u00e0 vendre - Rue Bichat, \u00e0 2 pas du Canal et de tous les commerces.\nRavissant loft en 3 pi\u00e8ces, lumineux et tr\u00e8s calme, avec un tr\u00e8s bon plan, sans perte de surface, traversant et en double exposition Est/Ouest, grande cour et rue.\nGrand salon avec jolie cuisine am\u00e9ricaine d'environ 27 m\u00b2, avec une grande baie vitr\u00e9e tr\u00e8s lumineuse et un [...]",
+                    "virtualVisitURL": "https://play.doorinsider.com/tour/8704?p=my.matterport.com",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/paris-10eme-75/faubourg-du-temple-hopital-saint-louis/199137517.htm",
+                    "rooms": 3,
+                    "surface": 55,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "transport": {
+                        "iconType": "Paris",
+                        "metroLines": [
+                            {
+                                "id": 17,
+                                "typeId": 3,
+                                "name": "5",
+                                "color": "f28e42"
+                            }
+                        ]
+                    },
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "F",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 199701053,
+                    "publicationId": 30002936,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Studio",
+                    "photosQty": 11,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/q/z/7/0qz714c1r41wxbpcm9qc4uyvy3a60pt0zlsvo4bbo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/i/5/g/1i5g2qc346359txk9zv6i2dw280fgr0sgw9hqzfbo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/5/8/i/158iccc778terk4fpa7ffu71fcf45i6246brx5bh0.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/j/e/8/0je8r821pz45emd692q92a8bmmpmburxdel16ksb8.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/l/z/h/0lzhsszh6tj51jihpsro62kit6ihqf6riqe2oy3is.jpg"
+                    ],
+                    "estateType": "Studio",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "5 538 \u20ac",
+                        "rawPrice": "144000",
+                        "price": "144 000 \u20ac",
+                        "monthlyPrice": 733,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 2936,
+                        "agencyPage": "/professionnels/agences-immobilieres/lagny-sur-marne-77400/agence-20391/",
+                        "isPrivateSeller": false,
+                        "contactName": "Agence Thevin Eguia",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/k/t/p/1ktpbg4dg64tu5y66hhjc152e63awlwgquiwzdux4.jpg",
+                        "phoneNumber": "01 60 07 03 74",
+                        "email": "true",
+                        "agencyLink": "http://www.orpi.com/thevineguia"
+                    },
+                    "tags": [
+                        "1 pi\u00e8ce",
+                        "26 m\u00b2",
+                        "\u00c9tage 0/2",
+                        "Terrasse",
+                        "Jardin",
+                        "Parking",
+                        "Ascenseur"
+                    ],
+                    "tagsLine1": [
+                        "1 pi\u00e8ce",
+                        "26 m\u00b2",
+                        "\u00c9tage 0/2",
+                        "Terrasse",
+                        "Jardin",
+                        "Parking",
+                        "Ascenseur"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Lagny-sur-Marne",
+                    "districtLabel": "D\u00e9viation route Nationale Nord",
+                    "zipCode": "77400",
+                    "description": "Appartement \u00e0 vendre - LAGNY SUR MARNE - STUDIO AVEC JARDIN - INVESTIR\r\n\r\nSitu\u00e9 au rez-de-chauss\u00e9e d'une petite r\u00e9sidence calme et s\u00e9curis\u00e9e, ce studio de 26 m\u00b2 comprend : une entr\u00e9e, une pi\u00e8ce principale tr\u00e8s lumineuse avec son jardin et sa terrasse privative expos\u00e9e sud-ouest sans vis-\u00e0-vis, une kitchenette ind\u00e9pendante, une salle de bains avec [...]",
+                    "virtualVisitURL": "https://my.matterport.com/show/?m=FFdb5JS3yAy",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/lagny-sur-marne-77/deviation-route-nationale-nord/199701053.htm",
+                    "rooms": 1,
+                    "surface": 26,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "E",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 199407485,
+                    "publicationId": 30174358,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 13,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/f/4/j/1f4jrt4etxyzeysom9dy9lekyqa4xw795345pe6cw.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/u/y/e/0uyegny0ry5st9ttkntcz810qa34o4sy9tarnk78w.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/4/z/d/04zdsu4ribngqbjjunw8og7ggsvu4pr71p0o7gucw.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/c/f/y/1cfyk964bbghptuv9h3usxw96uzpjo8onxs8u9vao.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/g/z/3/0gz3wz940j7pl0fufihk4yn2nhsp7t1k0q94mx38w.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "9 780 \u20ac",
+                        "rawPrice": "489000",
+                        "price": "489 000 \u20ac",
+                        "monthlyPrice": 2462,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 174358,
+                        "agencyPage": "/professionnels/agences-immobilieres/aix-en-provence-13100/agence-102517/",
+                        "isPrivateSeller": false,
+                        "contactName": "PROPRIOO",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/2/5/8/7/258780gh9igd15ytp1jj0xuhm5n8lplyk34coecvo.jpg",
+                        "phoneNumber": "07 64 42 10 00",
+                        "email": "true",
+                        "agencyLink": "http://www.proprioo.fr/?utm_source=seloger&utm_medium=multiposting&utm_campaign=vitrine_agence"
+                    },
+                    "tags": [
+                        "3 pi\u00e8ces",
+                        "1 chambre",
+                        "50 m\u00b2",
+                        "\u00c9tage 2/6",
+                        "Ascenseur"
+                    ],
+                    "tagsLine1": [
+                        "3 pi\u00e8ces",
+                        "1 chambre",
+                        "50 m\u00b2",
+                        "\u00c9tage 2/6",
+                        "Ascenseur"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Boulogne-Billancourt",
+                    "districtLabel": "Silly-Gallieni",
+                    "zipCode": "92100",
+                    "description": "Appartement \u00e0 vendre - Proprioo, a Casavo company, vous propose \u00e0 la vente en exclusivit\u00e9 cet appartement 3 pi\u00e8ces de 50 m\u00b2 localis\u00e9 Rue de Bellevue, Boulogne-Billancourt, \u00e0 proximit\u00e9 imm\u00e9diate des transports et des commerces de quartier, au 2\u00e8me avec ascenseur dans un immeuble 1930.\r\n\r\nVenez d\u00e9couvrir ce charmant 3 pi\u00e8ces compos\u00e9 d'une belle [...]",
+                    "virtualVisitURL": "https://my.matterport.com/show/?m=mNXeqtPo37Q",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/boulogne-billancourt-92/silly-gallieni/199407485.htm",
+                    "rooms": 3,
+                    "surface": 50,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "transport": {
+                        "iconType": "Paris",
+                        "metroLines": [
+                            {
+                                "id": 4,
+                                "typeId": 3,
+                                "name": "10",
+                                "color": "e3b32a"
+                            }
+                        ]
+                    },
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "E",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 198948509,
+                    "publicationId": 30174358,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 13,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/x/i/m/1ximb2pdxgwqm605gm34gpjnrfs2x4womfw849b5c.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/d/1/a/0d1ammokh91lbsgghfryyyykwgzjq90nquzsjkaeo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/s/6/f/1s6f4m3ygu79000b71lofyf5saqjangrk1shym46o.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/y/u/j/0yuja89trkafeidoczttamajdlqp82rho2i9sfh68.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/j/l/t/1jltvjz74mxostur26umbqwj5uaw97uwblkut8ii8.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "6 091 \u20ac",
+                        "rawPrice": "335000",
+                        "price": "335 000 \u20ac",
+                        "monthlyPrice": 1690,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 174358,
+                        "agencyPage": "/professionnels/agences-immobilieres/aix-en-provence-13100/agence-102517/",
+                        "isPrivateSeller": false,
+                        "contactName": "PROPRIOO",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/2/5/8/7/258780gh9igd15ytp1jj0xuhm5n8lplyk34coecvo.jpg",
+                        "phoneNumber": "06 21 99 22 10",
+                        "email": "true",
+                        "agencyLink": "http://www.proprioo.fr/?utm_source=seloger&utm_medium=multiposting&utm_campaign=vitrine_agence"
+                    },
+                    "tags": [
+                        "2 pi\u00e8ces",
+                        "1 chambre",
+                        "55 m\u00b2",
+                        "\u00c9tage 1/4",
+                        "Balcon",
+                        "Jardin",
+                        "Ascenseur"
+                    ],
+                    "tagsLine1": [
+                        "2 pi\u00e8ces",
+                        "1 chambre",
+                        "55 m\u00b2",
+                        "\u00c9tage 1/4",
+                        "Balcon",
+                        "Jardin",
+                        "Ascenseur"
+                    ],
+                    "isExclusive": false,
+                    "cityLabel": "Saint-Maur-des-Foss\u00e9s",
+                    "districtLabel": "Le Parc ",
+                    "zipCode": "94210",
+                    "description": "Appartement \u00e0 vendre - Proprioo, a Casavo company, vous propose \u00e0 la vente cet appartement de 2 pi\u00e8ces de 55 m\u00b2 associ\u00e9 \u00e0 un box.\r\n\r\nCet appartement est situ\u00e9, Avenue Foch \u00e0 Saint Maur des Foss\u00e9s (Adamville, \u00e0 la limite du Parc saint Maur), au calme, donnant sur le jardin, sans vis-\u00e0-vis, \u00e0 proximit\u00e9 des commerces et du RER A.\r\n\r\n Dans une petite [...]",
+                    "virtualVisitURL": "https://my.matterport.com/show/?m=nvvczixV4uh",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/saint-maur-des-fosses-94/le-parc/198948509.htm",
+                    "rooms": 2,
+                    "surface": 55,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "E",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 4,
+                "blueCards": [
+                    {
+                        "type": 1,
+                        "title": "L'info chiffr\u00e9e",
+                        "subTitle": "243 200 \u20ac",
+                        "text": "<span>Un bien</span> de <span>50 m\u00b2</span> co\u00fbte en moyenne <span>243 200 \u20ac</span> en <span>\u00cele-de-France</span>.",
+                        "label": "En savoir plus sur les prix en \u00cele-de-France",
+                        "link": "https://www.seloger.com/prix-de-l-immo/vente/ile-de-france.htm",
+                        "index": 1
+                    },
+                    {
+                        "type": 0,
+                        "title": "La s\u00e9lection de l'\u00e9dito",
+                        "text": "Le guide de l'achat immobilier.",
+                        "label": "D\u00e9couvrir le dossier",
+                        "link": "https://edito.seloger.com/conseils-d-experts/acheter/guide-achat-immobilier-sommaire.html",
+                        "index": 2
+                    }
+                ]
+            },
+            {
+                "type": 11,
+                "cta": {
+                    "type": 0
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 199047745,
+                    "publicationId": 30174358,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 10,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/s/w/f/1swf2spsb9sy7ya7p3gbhmxvqyrgewljq3otf129c.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/6/v/8/06v8c0u8syegm26yuev8kdbwe3ep7chnvxccb0kvk.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/z/6/j/1z6jz936wgd4eshhkax0kb2z9v7brzg1wcctw50a8.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/h/h/v/1hhvmml0nys9sosddokw0sx6bvc4371ypp05ekqeo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/2/f/v/02fvf5tjxqpn8uemlui7uisdohkcx1bl3kh8pv1yo.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "7 422 \u20ac",
+                        "rawPrice": "475000",
+                        "price": "475 000 \u20ac",
+                        "monthlyPrice": 2392,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 174358,
+                        "agencyPage": "/professionnels/agences-immobilieres/aix-en-provence-13100/agence-102517/",
+                        "isPrivateSeller": false,
+                        "contactName": "PROPRIOO",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/2/5/8/7/258780gh9igd15ytp1jj0xuhm5n8lplyk34coecvo.jpg",
+                        "phoneNumber": "07 56 85 77 38",
+                        "email": "true",
+                        "agencyLink": "http://www.proprioo.fr/?utm_source=seloger&utm_medium=multiposting&utm_campaign=vitrine_agence"
+                    },
+                    "tags": [
+                        "3 pi\u00e8ces",
+                        "2 chambres",
+                        "64 m\u00b2",
+                        "\u00c9tage 0/\u2013",
+                        "Ascenseur"
+                    ],
+                    "tagsLine1": [
+                        "3 pi\u00e8ces",
+                        "2 chambres",
+                        "64 m\u00b2",
+                        "\u00c9tage 0/\u2013",
+                        "Ascenseur"
+                    ],
+                    "isExclusive": false,
+                    "cityLabel": "Issy-les-Moulineaux",
+                    "districtLabel": "Corentin Celton",
+                    "zipCode": "92130",
+                    "description": "Appartement \u00e0 vendre - Proprioo, a Casavo company, vous propose \u00e0 la vente cet appartement de 3 pi\u00e8ces de 64 m\u00b2 localis\u00e9 \u00e0 Issy-les-Moulineaux, dans le quartier des Varennes.\r\n\r\nCe bien se situe dans un immeuble des ann\u00e9es 60, s\u00e9curis\u00e9 par un digicode et une gardienne.\r\nIl se compose d'1 s\u00e9jour, d'1 cuisine partiellement ouverte, de 2 chambres, [...]",
+                    "virtualVisitURL": "https://my.matterport.com/show/?m=yJWLTNe5Ckf",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/issy-les-moulineaux-92/corentin-celton/199047745.htm",
+                    "rooms": 3,
+                    "surface": 64,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "D",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 199744113,
+                    "publicationId": 30253166,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 10,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/n/3/j/0n3j6qdx1vnz2njpz23nxeta3wgqjuvmhgeibkn8g.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/g/j/5/1gj5edhuth4hlqevwmcjqwqhignp12m67uvaezn34.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/b/3/j/0b3jypnometent9qiqf08q9vasdo99egxwswoj7og.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/h/a/v/0havbohqx359hx9afv0uq7835yw933ubeaa677x9m.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/g/j/f/0gjfaumrbfyn8tzc68b244lu509h6gethwp8qqnxc.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 8,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "10 449 \u20ac",
+                        "rawPrice": "489000",
+                        "price": "489 000 \u20ac",
+                        "monthlyPrice": 2462,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 253166,
+                        "agencyPage": "/professionnels/agences-immobilieres/paris-17eme-arrondissement-75017/agence-107429/",
+                        "isPrivateSeller": false,
+                        "contactName": "Lafor\u00eat Immobilier Batignolles",
+                        "imgUrl": "https://v.seloger.com/s/height/150/logos/2/0/r/k/20rkzv56vv0gwhav8p0bh9nm29ja6rt8w2p2traec.jpg",
+                        "phoneNumber": "01 40 31 25 50",
+                        "email": "true",
+                        "agencyLink": "http://www.laforet.com/agence-immobiliere/paris17batignolles"
+                    },
+                    "tags": [
+                        "3 pi\u00e8ces",
+                        "2 chambres",
+                        "47 m\u00b2",
+                        "\u00c9tage 1/4"
+                    ],
+                    "tagsLine1": [
+                        "3 pi\u00e8ces",
+                        "2 chambres",
+                        "47 m\u00b2",
+                        "\u00c9tage 1/4"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Paris 17\u00e8me",
+                    "districtLabel": "Batignolles-Cardinet",
+                    "zipCode": "75017",
+                    "description": "Appartement de luxe \u00e0 vendre - March\u00e9 des Batignolles, dans une petite copropri\u00e9t\u00e9, nous vous proposons un appartement de trois pi\u00e8ces \u00e0 r\u00e9nover dans son ensemble offrant une pi\u00e8ce de vie avec cuisine ouverte, deux belles chambres avec placards dans lesquelles vous pourrez redonner vie \u00e0 de beaux parquets en Point de Hongrie, salle d'eau et WC [...]",
+                    "virtualVisitURL": "https://app.immoviewer.com/portal/tour/2572426",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat-de-prestige/appartement/paris-17eme-75/batignolles-cardinet/199744113.htm",
+                    "rooms": 3,
+                    "surface": 46.8,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "transport": {
+                        "iconType": "Paris",
+                        "metroLines": [
+                            {
+                                "id": 7,
+                                "typeId": 3,
+                                "name": "13",
+                                "color": "98d4e2"
+                            },
+                            {
+                                "id": 8,
+                                "typeId": 3,
+                                "name": "14",
+                                "color": "662483"
+                            }
+                        ],
+                        "transilienLines": [
+                            {
+                                "id": 124,
+                                "typeId": 102,
+                                "name": "L",
+                                "color": "ceadd2"
+                            }
+                        ]
+                    },
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "F",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 198871805,
+                    "publicationId": 30010604,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement meubl\u00e9",
+                    "photosQty": 15,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/h/z/6/1hz6iy8sylxpnupev9uxx5ffaxmawhx20jkhjbhr4.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/v/m/m/1vmmg7bc58pc0x47r27xgwonkwfe0npqftyynhf34.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/c/r/a/0crap2p3yrko1o5tubsho3xj2oqp04lpxw3fja7xc.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/4/e/d/04edm56q8pyvrrtf82dpvudbch0lj9jnxfxkobnvk.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/0/8/z/008z39m2drb52caz7h0tudsi3isbwbugx1eg9th9c.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "10 601 \u20ac",
+                        "rawPrice": "406000",
+                        "price": "406 000 \u20ac",
+                        "monthlyPrice": 2046,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 10604,
+                        "agencyPage": "/professionnels/agences-immobilieres/paris-12eme-arrondissement-75012/agence-127161/",
+                        "isPrivateSeller": false,
+                        "contactName": "Agence LAFORET IMMOBILIER PARIS 12 DAUMESNIL",
+                        "imgUrl": "https://v.seloger.com/s/height/150/logos/0/i/k/f/0ikfhh97gdgzfgnaw8z35fqfse721930pjx7wj338.jpg",
+                        "phoneNumber": "01 55 78 83 10",
+                        "email": "true",
+                        "agencyLink": "http://www.laforet.com/paris12daumesnil"
+                    },
+                    "tags": [
+                        "2 pi\u00e8ces",
+                        "1 chambre",
+                        "38 m\u00b2",
+                        "\u00c9tage 5/5"
+                    ],
+                    "tagsLine1": [
+                        "2 pi\u00e8ces",
+                        "1 chambre",
+                        "38 m\u00b2",
+                        "\u00c9tage 5/5"
+                    ],
+                    "isExclusive": false,
+                    "cityLabel": "Paris 12\u00e8me",
+                    "districtLabel": "Jardin de Reuilly",
+                    "zipCode": "75012",
+                    "description": "Appartement \u00e0 vendre - Paris 12\u00e8me, secteur DAUMESNIL / DUGOMMIER\r\nAux pieds des commerces et des transports, dans un secteur tr\u00e8s recherch\u00e9, au sein d''une copropri\u00e9t\u00e9 ancienne, nous vous proposons ce 2pi\u00e8ces en duplex, avec le charme de l'ancien comprenant \u00e0 proximit\u00e9 imm\u00e9diate de la place Daumesnil et de la Coul\u00e9e Verte : entr\u00e9e, s\u00e9jour [...]",
+                    "virtualVisitURL": "https://my.matterport.com/show/?m=rTU4aGorXbK",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/paris-12eme-75/jardin-de-reuilly/198871805.htm",
+                    "rooms": 2,
+                    "surface": 38.3,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "G",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 198961493,
+                    "publicationId": 30052886,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Maison 1 \u00e9tage",
+                    "photosQty": 13,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/t/5/g/1t5gocy4e5yr2uvxxq5i5sam1ejeu2lhsmab6z82o.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/d/m/h/0dmh9steiwukrzwesvoxm54744i57evrb1rm8tfvk.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/n/w/r/1nwrd6v7i67s1iroo4yiel97xebxujqom5x94rag0.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/v/8/q/1v8qeths8k0e2ljkrko6jfnqx8oz2lniy0n6fr4bk.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/5/3/u/253ul8g2feagw36gv6o1i66t5idufc120hgwsez6o.jpg"
+                    ],
+                    "estateType": "Maison/Villa",
+                    "estateTypeId": 2,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "3 627 \u20ac",
+                        "rawPrice": "399000",
+                        "price": "399 000 \u20ac",
+                        "monthlyPrice": 2011,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 52886,
+                        "agencyPage": "/professionnels/agences-immobilieres/chevreuse-78460/agence-174591/",
+                        "isPrivateSeller": false,
+                        "contactName": "Agence Des Oliviers",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/3/a/m/13am2n22xl0wx57mdaf4vljny4ui1kn7xw8438jgg.jpg",
+                        "phoneNumber": "01 30 52 11 11",
+                        "email": "true",
+                        "agencyLink": "http://www.agencesdesoliviers.com/"
+                    },
+                    "tags": [
+                        "6 pi\u00e8ces",
+                        "3 chambres",
+                        "110 m\u00b2",
+                        "Terrain 700 m\u00b2",
+                        "Box",
+                        "Parking"
+                    ],
+                    "tagsLine1": [
+                        "6 pi\u00e8ces",
+                        "3 chambres",
+                        "110 m\u00b2",
+                        "Terrain 700 m\u00b2",
+                        "Box",
+                        "Parking"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Limours",
+                    "zipCode": "91470",
+                    "description": "Maison/Villa \u00e0 vendre - NOUVEAUT\u00c9 : \r\nL'agence des Oliviers \u00e0 le plaisir de vous pr\u00e9senter en Exclusivit\u00e9 :\r\nEn impasse \u00e0 pied du centre-ville et de toutes commodit\u00e9s.\r\nMaison traditionnelle d'environ 120m2 au sol, particuli\u00e8rement bien agenc\u00e9e et id\u00e9ale pour la vie de famille.\r\nEntr\u00e9e avec placards, toilettes s\u00e9par\u00e9es, belle pi\u00e8ce de vie [...]",
+                    "virtualVisitURL": "https://www.hdmedia.fr/visite-virtuelle/hd/cbpBqpoRdb-maison-limours.html",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/maison/limours-91/198961493.htm",
+                    "rooms": 6,
+                    "surface": 110,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "E",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 5,
+                "nativeAdvertising": {
+                    "highlightingLevel": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 198962951,
+                    "publicationId": 30102611,
+                    "highlightingLevel": 3,
+                    "businessUnit": 5,
+                    "title": "Appartement",
+                    "photosQty": 11,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/h/w/0/0hw0j1ifjjj7o7uyn3oc2asdr0r6fi7ll18c92pog.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/r/t/9/1rt9qkoamtp69m65jdvj8mq3i8ie7716vtnt8av0g.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/y/l/e/0yle68clfsdo3nitaey7orkj04l6hw0hope9bfreo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/z/n/h/1znhvxjm7sbtfyzkbnebkzt6pjbbk3nmyo7k1moow.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/q/x/e/0qxe8yg6o4x9b52ch4pylbs6zxsa827ixfvx2s0hs.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 8,
+                    "nature": 3,
+                    "pricing": {
+                        "squareMeterPrice": "16 741 \u20ac",
+                        "rawPrice": "2200000",
+                        "price": "2 200 000 \u20ac",
+                        "monthlyPrice": 11037,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 102611,
+                        "agencyPage": "/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-208294/",
+                        "isPrivateSeller": false,
+                        "contactName": "JUNOT 6e",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/e/8/2/1e82rx57cey3dltjw1r3m698uemargjbl1jq1bmyc.jpg",
+                        "phoneNumber": "01 45 49 20 20",
+                        "email": "true",
+                        "agencyLink": "http://www.junot.fr/"
+                    },
+                    "tags": [
+                        "5 pi\u00e8ces",
+                        "3 chambres",
+                        "131 m\u00b2",
+                        "\u00c9tage 4/6",
+                        "Ascenseur"
+                    ],
+                    "tagsLine1": [
+                        "5 pi\u00e8ces",
+                        "3 chambres",
+                        "131 m\u00b2",
+                        "\u00c9tage 4/6",
+                        "Ascenseur"
+                    ],
+                    "isExclusive": false,
+                    "cityLabel": "Paris 14\u00e8me",
+                    "districtLabel": "Raspail-Montparnasse",
+                    "zipCode": "75014",
+                    "description": "Appartement de luxe \u00e0 vendre - \u00c0 proximit\u00e9 imm\u00e9diate des commerces et des transports, au quatri\u00e8me \u00e9tage par un ascenseur vitr\u00e9, tr\u00e8s bel appartement familial de 131,41m\u00b2 loi Carrez. Il comprend une galerie d'entr\u00e9e, une magnifique pi\u00e8ce de r\u00e9ception, une salle \u00e0 manger, une cuisine ind\u00e9pendante, trois chambres, une salle de bains, une salle de [...]",
+                    "virtualVisitURL": "https://envisite.net/vtour/fr/nqrkp8/frame",
+                    "housingBatch": [],
+                    "classifiedURL": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-48240/198962951/",
+                    "rooms": 5,
+                    "surface": 131.41,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "E",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 199120373,
+                    "publicationId": 30091845,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 15,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/9/h/6/19h6f73edv7viele4klhbe30eotx4zvhwagfnagwh.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/6/s/m/26smiamtgi16a1tgg88d75zka4cl03qwgji49cjiv.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/8/i/8/28i8udktmtudr0q0dtgc2hr3w69ffui1got76s1a8.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/3/8/f/238f0kbohxo1btvsscvtgckvknngtkt8kpyk1h4qy.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/6/s/7/26s71begu4ju2ad94kjjt1yprlhqb0q2hmy86vlzf.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "3 595 \u20ac",
+                        "rawPrice": "275600",
+                        "price": "275 600 \u20ac",
+                        "monthlyPrice": 1392,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 91845,
+                        "agencyPage": "/professionnels/agences-immobilieres/argenteuil-95100/agence-95380/",
+                        "isPrivateSeller": false,
+                        "contactName": "Orpi Jaures",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/0/r/2/j/0r2jetzn2gh9gh6xpx4hgmhglw0krlaaetg1r07g0.jpg",
+                        "phoneNumber": "01 84 20 03 28",
+                        "email": "true",
+                        "agencyLink": "http://www.orpi.com/orpijaures"
+                    },
+                    "tags": [
+                        "4 pi\u00e8ces",
+                        "3 chambres",
+                        "77 m\u00b2",
+                        "\u00c9tage 1/3",
+                        "Balcon",
+                        "Terrasse",
+                        "Parking",
+                        "Ascenseur"
+                    ],
+                    "tagsLine1": [
+                        "4 pi\u00e8ces",
+                        "3 chambres",
+                        "77 m\u00b2",
+                        "\u00c9tage 1/3",
+                        "Balcon",
+                        "Terrasse",
+                        "Parking",
+                        "Ascenseur"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Argenteuil",
+                    "districtLabel": "Val Notre Dame-La Tour Billy",
+                    "zipCode": "95100",
+                    "description": "Appartement \u00e0 vendre - A ARGENTEUIL, en limite de BEZONS, SARTROUVILLE et CORMEILLES, \u00e0 15 minutes du tramway T2 de BEZONS. Nombreux bus (272, 3 et 9) , acc\u00e8s Tramway, gare centre ville ou RER A. Ecoles \u00e0 5 minutes . d\u00e9couvrez \u00e0 la vente cet Appartement F4 tr\u00e8s bien entretenu. Son exposition Sud lui conf\u00e8re une grande luminosit\u00e9. Il offre un grand [...]",
+                    "virtualVisitURL": "https://play.danim.com/v654uik23?loop=1&autoplay=0",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/argenteuil-95/val-notre-dame-la-tour-billy/199120373.htm",
+                    "rooms": 4,
+                    "surface": 76.67,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "C",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 198680407,
+                    "publicationId": 30451606,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Maison",
+                    "photosQty": 12,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/v/j/u/0vju7b20yzflqovwty9qvtt01jn9vn9jc1q7gucn4.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/g/r/i/1gri2zr310xcpp4w2thhybg4my5p7umn74w77h20w.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/s/h/0/0sh0zn5mpvbip8y1j4ctaojdbfybo5hpek490ia2o.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/0/5/6/0056qv8r6pypl0nx0f7lwy61bjzh5eov4di3ens00.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/l/j/5/1lj52vkla5ypigxwuirvpcbwmu1ty2evksl85wxog.jpg"
+                    ],
+                    "estateType": "Maison/Villa",
+                    "estateTypeId": 2,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "2 958 \u20ac",
+                        "rawPrice": "520000",
+                        "price": "520 000 \u20ac",
+                        "monthlyPrice": 2617,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 451606,
+                        "agencyPage": "/professionnels/agences-immobilieres/marines-95640/agence-156524/",
+                        "isPrivateSeller": false,
+                        "contactName": "Stephane Plaza Immobilier Marines",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/4/u/8/14u82fqrjow0lr79rxwr081lb6w39ie3opvj9mgbw.jpg",
+                        "phoneNumber": "09 83 79 47 99",
+                        "email": "true",
+                        "agencyLink": "https://www.stephaneplazaimmobilier.com/"
+                    },
+                    "tags": [
+                        "7 pi\u00e8ces",
+                        "5 chambres",
+                        "176 m\u00b2",
+                        "Terrain 19 490 m\u00b2",
+                        "Garage"
+                    ],
+                    "tagsLine1": [
+                        "7 pi\u00e8ces",
+                        "5 chambres",
+                        "176 m\u00b2",
+                        "Terrain 19 490 m\u00b2",
+                        "Garage"
+                    ],
+                    "isExclusive": false,
+                    "cityLabel": "Marines",
+                    "zipCode": "95640",
+                    "description": "Maison/Villa \u00e0 vendre - Superbe maison familiale dans un cadre verdoyant avec 2 hectares de terrain .\r\nAu rez-de-chauss\u00e9e : entr\u00e9e, grand s\u00e9jour lumineux, cuisine \u00e9quip\u00e9e, suite parentale avec salle d'eau, buanderie , toilettes.\r\nA l'\u00e9tage, d\u00e9gagement, trois chambres, salle de jeux billard, lingerie, salle de bains .\r\nDouble garage avec portes \u00e0 [...]",
+                    "virtualVisitURL": "https://view.ricoh360.com/7bb03d8a-cc12-4ba4-926b-62155474d2ad",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/maison/marines-95/198680407.htm",
+                    "rooms": 7,
+                    "surface": 175.78,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 1,
+                    "isNew": false,
+                    "epc": "D",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 198748689,
+                    "publicationId": 30010854,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Maison 2 \u00e9tages",
+                    "photosQty": 9,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/t/9/b/1t9bs51af5759iqhxezmjk5mg59rrzxqqxip09bmo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/t/z/a/0tzaw8got4hyll7bbyztcjo23m24337i8vjfzlqbk.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/3/o/8/13o80mqcgtypxjji0xpk1o7ld3u6yvmnnbx1ou6bk.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/0/y/d/20ydsum0nj0nvpb86o5ct8g3qwidlcxp50no9kg3k.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/c/f/8/1cf828s1p5ghwz92d6cprb944kjikvc1sheeaj62o.jpg"
+                    ],
+                    "estateType": "Maison/Villa",
+                    "estateTypeId": 2,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "3 766 \u20ac",
+                        "rawPrice": "290000",
+                        "price": "290 000 \u20ac",
+                        "monthlyPrice": 1464,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 10854,
+                        "agencyPage": "/professionnels/agences-immobilieres/mandres-les-roses-94520/agence-26924/",
+                        "isPrivateSeller": false,
+                        "contactName": "Agence de la Mairie Mandres",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/0/w/i/7/0wi7rndthuyvp07tpnx2ec1fy7n5mqz73u8zrzyjx.jpg",
+                        "phoneNumber": "01 45 98 71 71",
+                        "email": "true",
+                        "agencyLink": "http://www.orpi.com/mairiemandres"
+                    },
+                    "tags": [
+                        "5 pi\u00e8ces",
+                        "4 chambres",
+                        "77 m\u00b2",
+                        "Terrain 58 m\u00b2",
+                        "Jardin",
+                        "Parking"
+                    ],
+                    "tagsLine1": [
+                        "5 pi\u00e8ces",
+                        "4 chambres",
+                        "77 m\u00b2",
+                        "Terrain 58 m\u00b2",
+                        "Jardin",
+                        "Parking"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Mandres-les-Roses",
+                    "zipCode": "94520",
+                    "description": "Maison/Villa \u00e0 vendre - MAISON DE VILLE 5 PI\u00c8CES AVEC JARDIN NON ATTENANT - \r\n\r\nEn vente : \u00e0 MANDRES LES ROSES (94520) venez d\u00e9couvrir cette maison de 5 pi\u00e8ces au coeur du village de Mandres les roses dans cour tr\u00e8s calme.\r\n\r\nMaison tr\u00e8s bien entretenue, se composant d'une entr\u00e9e sur cuisine am\u00e9nag\u00e9e et \u00e9quip\u00e9e, s\u00e9jour-salon avec po\u00eale \u00e0 bois, 2 [...]",
+                    "virtualVisitURL": "https://envisite.net/vtour/fr/5123qh/frame",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/maison/mandres-les-roses-94/198748689.htm",
+                    "rooms": 5,
+                    "surface": 77,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "D",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 5,
+                "nativeAdvertising": {
+                    "highlightingLevel": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 198818523,
+                    "publicationId": 30270050,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Studio",
+                    "photosQty": 11,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/o/d/a/1odatiiac71v1m5fcvop6oksibhr0k9rgl3ydsyyo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/4/x/a/24xaq9h093v3etnnu0m1s5k2wm6h1sugw3fuge48w.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/3/2/0/1320r0i2ygf8c2jx2iodl23f9rc79qxktx7ddgm4g.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/2/6/q/r/26qr2rycq0fc9uhpr6z0utibleiuzhnorz72kqneo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/x/9/t/1x9tr2ieoa2dvuyouqsh3oo8v0pdjz5jij9wjmu4g.jpg"
+                    ],
+                    "estateType": "Studio",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "10 975 \u20ac",
+                        "rawPrice": "476000",
+                        "price": "476 000 \u20ac",
+                        "monthlyPrice": 2397,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 270050,
+                        "agencyPage": "/professionnels/agences-immobilieres/paris-10eme-arrondissement-75010/agence-132616/",
+                        "isPrivateSeller": false,
+                        "contactName": "LAFORET paris 10 porte Saint-Denis",
+                        "imgUrl": "https://v.seloger.com/s/height/150/logos/0/i/k/f/0ikfhh97gdgzfgnaw8z35fqfse721930pjx7wj338.jpg",
+                        "phoneNumber": "01 84 25 36 15",
+                        "email": "true",
+                        "agencyLink": "https://laforet.com/agence-immobiliere/paris10saintdenis"
+                    },
+                    "tags": [
+                        "1 pi\u00e8ce",
+                        "43 m\u00b2",
+                        "\u00c9tage 3/0",
+                        "Balcon",
+                        "Ascenseur"
+                    ],
+                    "tagsLine1": [
+                        "1 pi\u00e8ce",
+                        "43 m\u00b2",
+                        "\u00c9tage 3/0",
+                        "Balcon",
+                        "Ascenseur"
+                    ],
+                    "isExclusive": false,
+                    "cityLabel": "Paris 10\u00e8me",
+                    "districtLabel": "Porte Saint Denis-Paradis",
+                    "zipCode": "75010",
+                    "description": "Appartement \u00e0 vendre - Rue de Paradis, au sein d'un immeuble des Ann\u00e9es 70, au 3\u00e8me \u00e9tage avec ascenseur, un Studio, possibilit\u00e9 de cr\u00e9er une chambre en second jour, de 43,54 m\u00b2 carrez, comprenant une grande pi\u00e8ce de vie avec une grande baie vitr\u00e9e donnant sur balcon, un espace cuisine - salle \u00e0 manger, un d\u00e9barras, un d\u00e9gagement avec placard [...]",
+                    "virtualVisitURL": "https://my.matterport.com/show/?m=QvWhhtad3J5",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/paris-10eme-75/porte-saint-denis-paradis/198818523.htm",
+                    "rooms": 1,
+                    "surface": 43.37,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "transport": {
+                        "iconType": "Paris",
+                        "metroLines": [
+                            {
+                                "id": 19,
+                                "typeId": 3,
+                                "name": "7",
+                                "color": "f3a4ba"
+                            },
+                            {
+                                "id": 16,
+                                "typeId": 3,
+                                "name": "4",
+                                "color": "c04191"
+                            },
+                            {
+                                "id": 17,
+                                "typeId": 3,
+                                "name": "5",
+                                "color": "f28e42"
+                            }
+                        ]
+                    },
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "D",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 199388813,
+                    "publicationId": 30011321,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 10,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/m/0/u/1m0u06f9stxzjugyaf1wwwtlegui454xr3x09ua2o.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/7/3/w/173w5jbb59e8ibqxks16uw0kr4ojkaerccrrl5e2o.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/1/d/p/01dporgom01e84vw8b0ihcvbqaep9oc25xkxe0tj4.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/t/4/t/0t4td3fcvvd97csqpp9aw4334hnej4qug0c995ev4.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/p/m/l/0pml8t4umgdux67k4cc7k2r2xy3tbcnnzr1rbl2m8.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 2,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "6 499 \u20ac",
+                        "rawPrice": "414000",
+                        "price": "414 000 \u20ac",
+                        "monthlyPrice": 2086,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 11321,
+                        "agencyPage": "/professionnels/agences-immobilieres/saint-ouen-93400/agence-88756/",
+                        "isPrivateSeller": false,
+                        "contactName": "AGENCE LBI",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/2/9/t/j/29tj8x5k31g3tpipbtzx8mgyajqt14fxctru6l6j5.jpg",
+                        "phoneNumber": "01 40 11 62 62",
+                        "email": "true",
+                        "agencyLink": "http://www.lbi-immo.fr/"
+                    },
+                    "tags": [
+                        "3 pi\u00e8ces",
+                        "1 chambre",
+                        "64 m\u00b2",
+                        "\u00c9tage 4/4"
+                    ],
+                    "tagsLine1": [
+                        "3 pi\u00e8ces",
+                        "1 chambre",
+                        "64 m\u00b2",
+                        "\u00c9tage 4/4"
+                    ],
+                    "isExclusive": false,
+                    "cityLabel": "Saint-Ouen",
+                    "districtLabel": "Marie-Godillot-Landy",
+                    "zipCode": "93400",
+                    "description": "Appartement \u00e0 vendre - Id\u00e9alement situ\u00e9 en centre ville entre les m\u00e9tros Garibaldi (L13) et Mairie de St-Ouen (14) .\r\nEn dernier \u00e9tage ce duplex de 2/3 pi\u00e8ces enti\u00e8rement r\u00e9nov\u00e9 se compose:\r\n- au premier niveau d'un bel espace de vie de plus de 30m\u00b2 avec s\u00e9jour avec cuisine \u00e9quip\u00e9e et am\u00e9nag\u00e9e, un bureau am\u00e9nag\u00e9 en chambre b\u00e9b\u00e9 avec point [...]",
+                    "virtualVisitURL": "https://my.matterport.com/models/SPa9pbQ8b22?section=media",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat/appartement/saint-ouen-93/marie-godillot-landy/199388813.htm",
+                    "rooms": 3,
+                    "surface": 63.7,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "E",
+                    "partnerLinkType": 0
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 199467067,
+                    "publicationId": 30011487,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 12,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/m/9/i/0m9izd1cxmtqt7eh2to49t4nxhrxqq7xzu794qfb4.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/m/p/6/1mp63e6uthtko8tnfkjzcj0w3b2nf3vlgf7r9kwmo.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/o/6/7/1o67dcd9ihtta2xf2r6zisjgc8gx8h300hptifwa3.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/l/v/b/0lvbpuo7fqzeuw01ir97lz89bqpdtxdq1fmgvcv1s.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/b/0/3/1b035xrk64f50hoyt4e442kg3fwa82f56exqume53.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 8,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "8 309 \u20ac",
+                        "rawPrice": "1130000",
+                        "price": "1 130 000 \u20ac",
+                        "monthlyPrice": 5674,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 11487,
+                        "agencyPage": "/professionnels/agences-immobilieres/boulogne-billancourt-92100/agence-158719/",
+                        "isPrivateSeller": false,
+                        "contactName": "Chateauvieux Conseil",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/w/y/9/1wy9dgdpwizhh4939g6tyjnq3m9xjeebbgqme4wnq.jpg",
+                        "phoneNumber": "06 13 27 23 87",
+                        "email": "true",
+                        "agencyLink": "http://www.chateauvieuxconseil.com/"
+                    },
+                    "tags": [
+                        "6 pi\u00e8ces",
+                        "5 chambres",
+                        "136 m\u00b2",
+                        "\u00c9tage 7/7",
+                        "Terrasse",
+                        "Box",
+                        "Ascenseur"
+                    ],
+                    "tagsLine1": [
+                        "6 pi\u00e8ces",
+                        "5 chambres",
+                        "136 m\u00b2",
+                        "\u00c9tage 7/7",
+                        "Terrasse",
+                        "Box",
+                        "Ascenseur"
+                    ],
+                    "isExclusive": true,
+                    "cityLabel": "Boulogne-Billancourt",
+                    "districtLabel": "Grenier\u2013Point du Jour",
+                    "zipCode": "92100",
+                    "description": "Appartement de luxe \u00e0 vendre - M\u00e9tro Marcel Sembat. ou Tram T2. Proche de l'\u00eele Saint Germain, au 7\u00e8me et dernier \u00e9tage avec une terrasse spacieuse de 25m2 . L'appartement dispose d'une triple exposition ce qui garantit une luminosit\u00e9 maximale \u00e0 tout moment de la journ\u00e9e. Sans vis \u00e0 vis , ce qui garantit une intimit\u00e9 totale. Offrant une vue Tour [...]",
+                    "videoURL": "https://www.youtube.com/watch?v=YiMjlyZoEIw&t=13s",
+                    "virtualVisitURL": "https://www.youtube.com/watch?v=YiMjlyZoEIw",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat-de-prestige/appartement/boulogne-billancourt-92/grenier-point-du-jour/199467067.htm",
+                    "rooms": 6,
+                    "surface": 136,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 4,
+                    "isNew": false,
+                    "epc": "D",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 0,
+                "listing": {
+                    "id": 199264619,
+                    "publicationId": 30102611,
+                    "highlightingLevel": 3,
+                    "businessUnit": 1,
+                    "title": "Appartement",
+                    "photosQty": 11,
+                    "photos": [
+                        "https://v.seloger.com/s/crop/341x256/visuels/1/l/1/w/1l1w9rfjtronu01hhb05ar9zantb2kcghuir14vwg.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/z/i/d/0zid978rlqzunygyg5zh5vz34viduea45eg33j9ts.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/y/w/v/0ywv4ky393ok7ev1ya1mbqtf2unm02aw7lrnzd4lc.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/q/x/g/0qxgwirbovehc7z0vqm7w0uy7m2rou5l7jqhz120w.jpg",
+                        "https://v.seloger.com/s/crop/341x256/visuels/0/m/z/4/0mz4mfj8imgk4iwrzitjqpa8039xbo9cfrw762u80.jpg"
+                    ],
+                    "estateType": "Appartement",
+                    "estateTypeId": 1,
+                    "transactionTypeId": 8,
+                    "nature": 1,
+                    "pricing": {
+                        "squareMeterPrice": "9 877 \u20ac",
+                        "rawPrice": "645000",
+                        "price": "645 000 \u20ac",
+                        "monthlyPrice": 3244,
+                        "lifetime": false
+                    },
+                    "contact": {
+                        "agencyId": 102611,
+                        "agencyPage": "/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-208294/",
+                        "isPrivateSeller": false,
+                        "contactName": "JUNOT 6e",
+                        "imgUrl": "https://v.seloger.com/s/width/150/logos/1/e/8/2/1e82rx57cey3dltjw1r3m698uemargjbl1jq1bmyc.jpg",
+                        "phoneNumber": "01 45 49 20 20",
+                        "email": "true",
+                        "agencyLink": "http://www.junot.fr/"
+                    },
+                    "tags": [
+                        "3 pi\u00e8ces",
+                        "2 chambres",
+                        "65 m\u00b2",
+                        "\u00c9tage 0/4"
+                    ],
+                    "tagsLine1": [
+                        "3 pi\u00e8ces",
+                        "2 chambres",
+                        "65 m\u00b2",
+                        "\u00c9tage 0/4"
+                    ],
+                    "isExclusive": false,
+                    "cityLabel": "Paris 20\u00e8me",
+                    "districtLabel": "P\u00e8re Lachaise-R\u00e9union",
+                    "zipCode": "75020",
+                    "description": "Appartement de luxe \u00e0 vendre - Dans une impasse priv\u00e9e, tr\u00e8s bel appartement contemporain type loft de 65,30m\u00b2 loi Carrez. Au rez-de-chauss\u00e9e d'un immeuble ancien, ce trois pi\u00e8ces comprend un s\u00e9jour de 27,38m\u00b2 agr\u00e9ment\u00e9 d'une verri\u00e8re sur toute sa longueur, une cuisine am\u00e9nag\u00e9e et \u00e9quip\u00e9e, deux chambres, une salle de bains et des toilettes [...]",
+                    "virtualVisitURL": "https://envisite.net/vtour/fr/imagsc/frame",
+                    "housingBatch": [],
+                    "classifiedURL": "/annonces/achat-de-prestige/appartement/paris-20eme-75/pere-lachaise-reunion/199264619.htm",
+                    "rooms": 3,
+                    "surface": 65.3,
+                    "optionalCriteria": [],
+                    "missingOptionalCriteria": [],
+                    "forcedIntermediary": false,
+                    "geoPrecision": 2,
+                    "isNew": false,
+                    "epc": "D",
+                    "partnerLinkType": 2
+                }
+            },
+            {
+                "type": 5,
+                "nativeAdvertising": {
+                    "highlightingLevel": 2
+                }
+            },
+            {
+                "type": 10,
+                "ali": {
+                    "type": 0
+                }
+            }
+        ],
+        "aggregations": {
+            "privateSeller": 0,
+            "professionalSeller": 168429
+        }
+    },
+    "querystring": "projects=2,5&types=2,1&natures=1,2,4&places=[{\"divisions\":[2238]}]&price=10000/10000000&mandatorycommodities=0&enterprise=0&qsVersion=1.0",
+    "christieModel": {
+        "projects": [
+            2,
+            5
+        ],
+        "types": [
+            2,
+            1
+        ],
+        "natures": [
+            1,
+            2,
+            4
+        ],
+        "places": [
+            {
+                "divisions": [
+                    2238
+                ],
+                "label": "\u00cele-de-France"
+            }
+        ],
+        "price": {
+            "min": 10000,
+            "max": 10000000,
+            "hasMin": true,
+            "hasMax": true,
+            "hasValue": true
+        },
+        "sort": [],
+        "floors": [],
+        "mandatoryCommodities": false,
+        "enterprise": false
+    },
+    "metadata": {
+        "search": {
+            "idtt": [
+                2,
+                5
+            ],
+            "idtypebien": [
+                2,
+                1
+            ],
+            "pxmin": 10000,
+            "pxmax": 10000000,
+            "etagemin": 0,
+            "naturebien": [
+                1,
+                2,
+                4
+            ],
+            "commodites": [],
+            "pays": [
+                "250"
+            ],
+            "geodp": [
+                "77",
+                "78",
+                "91",
+                "92",
+                "93",
+                "94",
+                "95",
+                "75"
+            ],
+            "cp": [],
+            "localite": []
+        },
+        "summary": [
+            "Achat",
+            "\u00cele-de-France",
+            "Appartement"
+        ]
+    },
+    "seoData": {
+        "seoTitle": "168 429 biens \u00e0 vendre en \u00cele-de-France",
+        "tabTitle": "168 429 annonces de ventes et de viagers de maisons ou d'appartements en \u00cele-de-France, Seloger.com",
+        "splittedSeoTitle": {
+            "highlighted": "168 429 biens",
+            "common": " \u00e0 vendre en \u00cele-de-France"
+        }
+    },
+    "breadcrumb": {
+        "breadcrumbs": [
+            {
+                "label": "Immobilier",
+                "url": "/"
+            },
+            {
+                "label": "Annonces",
+                "url": "/immobilier/"
+            },
+            {
+                "label": "France",
+                "url": "/list.htm?projects=2,5&types=2,1&natures=1,2,4&places=[{\"countries\":[250]}]&price=10000/10000000&mandatorycommodities=0&enterprise=0&qsVersion=1.0"
+            },
+            {
+                "label": "\u00cele-de-France"
+            }
+        ]
+    },
+    "searchTrackingData": {
+        "price_min": 10000,
+        "price_max": 10000000,
+        "estate_type": "2|1",
+        "distribution_type": "2|5",
+        "search_type": "location",
+        "location": {
+            "country": "FRA",
+            "region": "\u00cele-de-France",
+            "department": "",
+            "city": "",
+            "district": "",
+            "postalcode": "",
+            "location_type": "region",
+            "location_keywords": "\u00cele-de-France"
+        },
+        "sorting": "S\u00e9lection",
+        "stricted_search": 0,
+        "advanced_criteria": "",
+        "advanced_criteria_purchase_type": "ancien|neuf|projet_construction|viager",
+        "bedroom_nb": "",
+        "room_nb": "",
+        "client_type": "private|pro",
+        "results_nb": 168429,
+        "page_nb": 20,
+        "temp_variable_2": ""
+    },
+    "pageNumber": 20
+}
